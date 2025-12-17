@@ -1,4 +1,11 @@
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-SOC_Analyst-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Incident_Response-critical?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20tcpdump%20%7C%20VirusTotal-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
 # Incident Handler’s Journal – SOC Investigation & Analysis
 
 This project documents a series of incident investigations recorded in an
